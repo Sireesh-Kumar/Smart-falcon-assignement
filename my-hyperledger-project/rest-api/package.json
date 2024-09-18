@@ -1,0 +1,14 @@
+{
+    "name": "rest-api",
+    "version": "1.0.0",
+    "description": "REST API for Hyperledger Fabric",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "fabric-network": "^2.2.0"
+    }
+  }
+  
